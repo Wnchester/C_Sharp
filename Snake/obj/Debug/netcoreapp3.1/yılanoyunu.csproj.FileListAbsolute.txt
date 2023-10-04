@@ -1,0 +1,16 @@
+C:\Users\stutu\source\repos\yılanoyunu\bin\Debug\netcoreapp3.1\yılanoyunu.exe
+C:\Users\stutu\source\repos\yılanoyunu\bin\Debug\netcoreapp3.1\yılanoyunu.deps.json
+C:\Users\stutu\source\repos\yılanoyunu\bin\Debug\netcoreapp3.1\yılanoyunu.runtimeconfig.json
+C:\Users\stutu\source\repos\yılanoyunu\bin\Debug\netcoreapp3.1\yılanoyunu.runtimeconfig.dev.json
+C:\Users\stutu\source\repos\yılanoyunu\bin\Debug\netcoreapp3.1\yılanoyunu.dll
+C:\Users\stutu\source\repos\yılanoyunu\bin\Debug\netcoreapp3.1\yılanoyunu.pdb
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.csproj.AssemblyReference.cache
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.Form1.resources
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.csproj.GenerateResource.cache
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.AssemblyInfoInputs.cache
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.AssemblyInfo.cs
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.csproj.CoreCompileInputs.cache
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.dll
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.pdb
+C:\Users\stutu\source\repos\yılanoyunu\obj\Debug\netcoreapp3.1\yılanoyunu.genruntimeconfig.cache
